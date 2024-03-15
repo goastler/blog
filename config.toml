@@ -1,0 +1,6 @@
+baseURL = 'http://goastler.com/'
+languageCode = 'en-gb'
+title = 'Blog'
+
+[archetypes]
+  [archetypes.default]
