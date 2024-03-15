@@ -1,6 +1,7 @@
-baseURL = 'http://goastler.com/'
-languageCode = 'en-gb'
-title = 'Blog'
-
-[archetypes]
-  [archetypes.default]
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
