@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'http://goastler.com/'
+languageCode = 'en-gb'
+title = 'goastler.com'
 theme = 'ananke'
 [taxonomies]
   category = 'categories'

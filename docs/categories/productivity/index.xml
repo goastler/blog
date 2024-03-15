@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity on goastler.com</title>
+    <link>http://goastler.com/categories/productivity/</link>
+    <description>Recent content in Productivity on goastler.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 15 Mar 2024 12:01:20 +0000</lastBuildDate><atom:link href="http://goastler.com/categories/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unveiling My Digital Vault: A Journey from Txt Files to Hugo-Powered Notes Repository</title>
+      <link>http://goastler.com/posts/first-post/</link>
+      <pubDate>Fri, 15 Mar 2024 12:01:20 +0000</pubDate>
+      
+      <guid>http://goastler.com/posts/first-post/</guid>
+      <description>Welcome to the inaugural post of my digital chronicles! Over the past 15 years, I&amp;rsquo;ve amassed a treasure trove of solutions to myriad techy problems. These notes, meticulously crafted through countless trials and triumphs, have resided in the humble abodes of text files and markdown on Trello boards.
+Speaking of Trello, it has been my steadfast companion in organizing tasks and lists, but alas, its search function leaves much to be desired.</description>
+    </item>
+    
+  </channel>
+</rss>
