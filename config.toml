@@ -1,0 +1,7 @@
+baseURL = 'http://goastler.com/'
+languageCode = 'en-gb'
+title = 'goastler.com'
+theme = 'ananke'
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
