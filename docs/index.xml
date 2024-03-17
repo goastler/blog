@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>goastler.com</title>
-    <link>http://goastler.com/</link>
-    <description>Recent content on goastler.com</description>
+    <title>blog.goastler.com</title>
+    <link>https://blog.goastler.com/</link>
+    <description>Recent content on blog.goastler.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 15 Mar 2024 12:01:20 +0000</lastBuildDate><atom:link href="http://goastler.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Mar 2024 11:27:19 +0000</lastBuildDate><atom:link href="https://blog.goastler.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hosting a static website on Github Pages</title>
+      <link>https://blog.goastler.com/posts/hosting-on-github-pages/</link>
+      <pubDate>Sat, 16 Mar 2024 11:27:19 +0000</pubDate>
+      
+      <guid>https://blog.goastler.com/posts/hosting-on-github-pages/</guid>
+      <description>How to Host Your Website on GitHub Pages 🚀 Welcome, fellow developer! Are you looking for an easy and free way to host your website or project online? Look no further than GitHub Pages. In this tutorial, I&amp;rsquo;ll guide you through the process of hosting static content on GitHub Pages, making your project accessible to the world with just a few simple steps.
+What is GitHub Pages? GitHub Pages is a static resource hosting service provided by GitHub.</description>
+    </item>
+    
     <item>
       <title>Unveiling My Digital Vault: A Journey from Txt Files to Hugo-Powered Notes Repository</title>
-      <link>http://goastler.com/posts/first-post/</link>
+      <link>https://blog.goastler.com/posts/first-post/</link>
       <pubDate>Fri, 15 Mar 2024 12:01:20 +0000</pubDate>
       
-      <guid>http://goastler.com/posts/first-post/</guid>
+      <guid>https://blog.goastler.com/posts/first-post/</guid>
       <description>Welcome to the inaugural post of my digital chronicles! Over the past 15 years, I&amp;rsquo;ve amassed a treasure trove of solutions to myriad techy problems. These notes, meticulously crafted through countless trials and triumphs, have resided in the humble abodes of text files and markdown on Trello boards.
 Speaking of Trello, it has been my steadfast companion in organizing tasks and lists, but alas, its search function leaves much to be desired.</description>
     </item>

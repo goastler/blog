@@ -1,99 +1,189 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on goastler.com</title>
-    <link>http://goastler.com/tags/</link>
-    <description>Recent content in Tags on goastler.com</description>
+    <title>Tags on blog.goastler.com</title>
+    <link>https://blog.goastler.com/tags/</link>
+    <description>Recent content in Tags on blog.goastler.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 15 Mar 2024 12:01:20 +0000</lastBuildDate><atom:link href="http://goastler.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Mar 2024 11:27:19 +0000</lastBuildDate><atom:link href="https://blog.goastler.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git</title>
+      <link>https://blog.goastler.com/tags/git/</link>
+      <pubDate>Sat, 16 Mar 2024 11:27:19 +0000</pubDate>
+      
+      <guid>https://blog.goastler.com/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://blog.goastler.com/tags/github/</link>
+      <pubDate>Sat, 16 Mar 2024 11:27:19 +0000</pubDate>
+      
+      <guid>https://blog.goastler.com/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub Actions</title>
+      <link>https://blog.goastler.com/tags/github-actions/</link>
+      <pubDate>Sat, 16 Mar 2024 11:27:19 +0000</pubDate>
+      
+      <guid>https://blog.goastler.com/tags/github-actions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub Pages</title>
+      <link>https://blog.goastler.com/tags/github-pages/</link>
+      <pubDate>Sat, 16 Mar 2024 11:27:19 +0000</pubDate>
+      
+      <guid>https://blog.goastler.com/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hosting</title>
+      <link>https://blog.goastler.com/tags/hosting/</link>
+      <pubDate>Sat, 16 Mar 2024 11:27:19 +0000</pubDate>
+      
+      <guid>https://blog.goastler.com/tags/hosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://blog.goastler.com/tags/html/</link>
+      <pubDate>Sat, 16 Mar 2024 11:27:19 +0000</pubDate>
+      
+      <guid>https://blog.goastler.com/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Content</title>
+      <link>https://blog.goastler.com/tags/static-content/</link>
+      <pubDate>Sat, 16 Mar 2024 11:27:19 +0000</pubDate>
+      
+      <guid>https://blog.goastler.com/tags/static-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://blog.goastler.com/tags/tutorial/</link>
+      <pubDate>Sat, 16 Mar 2024 11:27:19 +0000</pubDate>
+      
+      <guid>https://blog.goastler.com/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>https://blog.goastler.com/tags/web-development/</link>
+      <pubDate>Sat, 16 Mar 2024 11:27:19 +0000</pubDate>
+      
+      <guid>https://blog.goastler.com/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website Deployment</title>
+      <link>https://blog.goastler.com/tags/website-deployment/</link>
+      <pubDate>Sat, 16 Mar 2024 11:27:19 +0000</pubDate>
+      
+      <guid>https://blog.goastler.com/tags/website-deployment/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>digital</title>
-      <link>http://goastler.com/tags/digital/</link>
+      <link>https://blog.goastler.com/tags/digital/</link>
       <pubDate>Fri, 15 Mar 2024 12:01:20 +0000</pubDate>
       
-      <guid>http://goastler.com/tags/digital/</guid>
+      <guid>https://blog.goastler.com/tags/digital/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://goastler.com/tags/hugo/</link>
+      <link>https://blog.goastler.com/tags/hugo/</link>
       <pubDate>Fri, 15 Mar 2024 12:01:20 +0000</pubDate>
       
-      <guid>http://goastler.com/tags/hugo/</guid>
+      <guid>https://blog.goastler.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>knowledge</title>
-      <link>http://goastler.com/tags/knowledge/</link>
+      <link>https://blog.goastler.com/tags/knowledge/</link>
       <pubDate>Fri, 15 Mar 2024 12:01:20 +0000</pubDate>
       
-      <guid>http://goastler.com/tags/knowledge/</guid>
+      <guid>https://blog.goastler.com/tags/knowledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>management</title>
-      <link>http://goastler.com/tags/management/</link>
+      <link>https://blog.goastler.com/tags/management/</link>
       <pubDate>Fri, 15 Mar 2024 12:01:20 +0000</pubDate>
       
-      <guid>http://goastler.com/tags/management/</guid>
+      <guid>https://blog.goastler.com/tags/management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>notes</title>
-      <link>http://goastler.com/tags/notes/</link>
+      <link>https://blog.goastler.com/tags/notes/</link>
       <pubDate>Fri, 15 Mar 2024 12:01:20 +0000</pubDate>
       
-      <guid>http://goastler.com/tags/notes/</guid>
+      <guid>https://blog.goastler.com/tags/notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>organization</title>
-      <link>http://goastler.com/tags/organization/</link>
+      <link>https://blog.goastler.com/tags/organization/</link>
       <pubDate>Fri, 15 Mar 2024 12:01:20 +0000</pubDate>
       
-      <guid>http://goastler.com/tags/organization/</guid>
+      <guid>https://blog.goastler.com/tags/organization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>personal</title>
-      <link>http://goastler.com/tags/personal/</link>
+      <link>https://blog.goastler.com/tags/personal/</link>
       <pubDate>Fri, 15 Mar 2024 12:01:20 +0000</pubDate>
       
-      <guid>http://goastler.com/tags/personal/</guid>
+      <guid>https://blog.goastler.com/tags/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tech</title>
-      <link>http://goastler.com/tags/tech/</link>
+      <link>https://blog.goastler.com/tags/tech/</link>
       <pubDate>Fri, 15 Mar 2024 12:01:20 +0000</pubDate>
       
-      <guid>http://goastler.com/tags/tech/</guid>
+      <guid>https://blog.goastler.com/tags/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>technology</title>
-      <link>http://goastler.com/tags/technology/</link>
+      <link>https://blog.goastler.com/tags/technology/</link>
       <pubDate>Fri, 15 Mar 2024 12:01:20 +0000</pubDate>
       
-      <guid>http://goastler.com/tags/technology/</guid>
+      <guid>https://blog.goastler.com/tags/technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trello</title>
-      <link>http://goastler.com/tags/trello/</link>
+      <link>https://blog.goastler.com/tags/trello/</link>
       <pubDate>Fri, 15 Mar 2024 12:01:20 +0000</pubDate>
       
-      <guid>http://goastler.com/tags/trello/</guid>
+      <guid>https://blog.goastler.com/tags/trello/</guid>
       <description></description>
     </item>
     

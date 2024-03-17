@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on blog.goastler.com</title>
+    <link>https://blog.goastler.com/tags/git/</link>
+    <description>Recent content in Git on blog.goastler.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 16 Mar 2024 11:27:19 +0000</lastBuildDate><atom:link href="https://blog.goastler.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hosting a static website on Github Pages</title>
+      <link>https://blog.goastler.com/posts/hosting-on-github-pages/</link>
+      <pubDate>Sat, 16 Mar 2024 11:27:19 +0000</pubDate>
+      
+      <guid>https://blog.goastler.com/posts/hosting-on-github-pages/</guid>
+      <description>How to Host Your Website on GitHub Pages 🚀 Welcome, fellow developer! Are you looking for an easy and free way to host your website or project online? Look no further than GitHub Pages. In this tutorial, I&amp;rsquo;ll guide you through the process of hosting static content on GitHub Pages, making your project accessible to the world with just a few simple steps.
+What is GitHub Pages? GitHub Pages is a static resource hosting service provided by GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>
