@@ -1,6 +1,6 @@
-baseURL = 'http://goastler.com/'
+baseURL = 'https://blog.goastler.com/'
 languageCode = 'en-gb'
-title = 'goastler.com'
+title = 'blog.goastler.com'
 theme = 'ananke'
 [taxonomies]
   category = 'categories'
