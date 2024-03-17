@@ -3,7 +3,25 @@ title: ""
 date: 2024-03-17T12:01:20Z
 draft: false
 tags:
+  - bug reports
+  - development
+  - project management
+  - software engineering
+  - product development
+  - templates
+  - scalability
+  - GitHub
+  - Repository
+  - Repo
+  - devops
 categories:
+  - Software Development
+  - Project Management
+  - Productivity
+  - GitHub
+  - Repository
+  - Repo
+  - DevOps
 ---
 <!-- 
 write a professional article on the following content. Use emojis. Make a short and snappy title for the article, but keep it specific to the content. Always welcome the user first of all. Then tell them what the article is about and why it is helpful to them. Tell them what they'll need in terms of tools and understanding. Tell them how much time they'll follow along. At the end, thank them for reading the article and write a short, snappy summary which encourages them to stay tuned for more great articles. Do not discard any content. Do not reduce any content. Put the output in markdown format. After writing the article, wrap it in a code block.
@@ -138,18 +156,18 @@ Here's a breakdown of the essential fields and their purposes:
 1. **Enable Issues**: Go to repository settings and enable issues.
    ![Enable Issues](image.png)
    
-2. **Setup Templates**: Click "Setup Templates."
+1. **Setup Templates**: Click "Setup Templates."
    ![Setup Templates](image-1.png)
    
-3. **Create Bug Report Template**: Add a new bug report template.
+1. **Create Bug Report Template**: Add a new bug report template.
    ![Bug Report](image-2.png)
    
-4. **Edit Template**: Customize the bug report template as per your requirements.
+1. **Edit Template**: Customize the bug report template as per your requirements.
    ![Edit Template](image-3.png)
 
-Alternatively, you can directly edit the template file in your repository:
-- Locate the file under `./github/ISSUE_TEMPLATE/<template name>.md`.
-   ![Bug Report File](image-4.png)
+    Alternatively, you can directly edit the template file in your repository:
+    - Locate the file under `./github/ISSUE_TEMPLATE/<template name>.md`.
+    ![Bug Report File](image-4.png)
 
 ### Copy the Template
 
