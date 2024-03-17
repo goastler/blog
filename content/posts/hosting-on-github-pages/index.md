@@ -2,6 +2,22 @@
 title: "Hosting a static website on Github Pages"
 date: 2024-03-16T11:27:19Z
 draft: false
+tags:
+  - GitHub Pages
+  - Static Content
+  - Hosting
+  - GitHub
+  - Tutorial
+  - Website Deployment
+  - GitHub Actions
+  - Web Development
+  - HTML
+  - Git
+categories:
+  - Web Development
+  - GitHub
+  - Tutorials
+  - Website Hosting
 ---
 <!-- 
 
